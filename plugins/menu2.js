@@ -20,8 +20,8 @@ Asena.addCommand({pattern: 'menu', fromMe: true, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━✨️*QUEEN ANGELLA*✨️━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 QUEEN ANGELLA 𝐛𝐨𝐭.
-            *ANGELLA*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝐂𝐡𝐢𝐧𝐭𝐮 𝐛𝐨𝐭.
+            *ʙʏ ༒︎𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰༒︎*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -79,7 +79,7 @@ Asena.addCommand({pattern: 'menu', fromMe: true, desc: Lang.WP}, (async (message
 🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
 
 
-■□■□■□■□■□ANGELLA■□■□■□■□■□
+■□■□■□■□■□CHINTU BOT■□■□■□■□■□
 
 
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
@@ -123,10 +123,10 @@ Asena.addCommand({pattern: 'menu', fromMe: true, desc: Lang.WP}, (async (message
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime angella
+⚠️anime
 
 
-■□■□■□■□■ANGELLA□■□■□■□■□■□
+■□■□■□■□■CHINTU BOT□■□■□■□■□■□
 
 
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
@@ -139,10 +139,10 @@ Asena.addCommand({pattern: 'menu', fromMe: true, desc: Lang.WP}, (async (message
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp Angella
+⚠️ex  attp Chintu
 ■□■□■□■□■□■□■□■□■□■□
-═════💢ANGELLA💢═════
-▣▣▣▣▣▣dripsmemes▣▣▣▣▣▣
+═════⚜️CHINTU BOT⚜️═════
+▣▣▣▣▣▣⚜️⚜️⚜️⚜️⚜️⚜️▣▣▣▣▣▣
 
 `}) 
 
