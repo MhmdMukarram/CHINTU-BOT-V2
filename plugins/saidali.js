@@ -21,7 +21,7 @@ const ll ="*Need some Word*"
 
 const Ln = "* "
 
- const code = "*╔════◉ CAMANDS ◉════╗*\n\n            *❖═List═❖*\n \n*🔮.quby1    ❴text❵*\n*🔮.quby2    ❴text❵*\n*🔮.quby3    ❴text❵*\n*🔮.quby4    ❴text❵*\n*🔮.cat1    ❴text❵*\n*🔮.cat2    ❴text❵*\n*🔮.cat3    ❴text❵*\n*🔮.cat4    ❴text❵*\n*🔮.doggy1    ❴text❵*\n*🔮.doggy2    ❴text❵*\n*🔮.doggy3    ❴text❵*\n*🔮.doggy4    ❴text❵*\n*🔮.trollikka1    ❴text❵*\n*🔮.trollikka2    ❴text❵*\n*🔮.trollikka3    ❴text❵*\n*🔮.trollikka4    ❴text❵*\n\n*╚═══❖══▣══▣══❖═══╝*\n\n*Queen Angella *"
+ const code = "*╔════◉ COMMANDS ◉════╗*\n\n            *❖═List═❖*\n \n*🔮.quby1    ❴text❵*\n*🔮.quby2    ❴text❵*\n*🔮.quby3    ❴text❵*\n*🔮.quby4    ❴text❵*\n*🔮.cat1    ❴text❵*\n*🔮.cat2    ❴text❵*\n*🔮.cat3    ❴text❵*\n*🔮.cat4    ❴text❵*\n*🔮.doggy1    ❴text❵*\n*🔮.doggy2    ❴text❵*\n*🔮.doggy3    ❴text❵*\n*🔮.doggy4    ❴text❵*\n*🔮.trollikka1    ❴text❵*\n*🔮.trollikka2    ❴text❵*\n*🔮.trollikka3    ❴text❵*\n*🔮.trollikka4    ❴text❵*\n\n*╚═══❖══▣══▣══❖═══╝*\n\n*Chintu Bot *"
 
 if (Config.WORKTYPE == 'public') {
 
