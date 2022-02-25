@@ -139,7 +139,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp Angella
+⚠️ex  attp Chintu
 ■□■□■□■□■□■□■□■□■□■□
 ═════⚜️CHINTU BOT⚜️═════
 ▣▣▣▣▣▣⚜️⚜️⚜️⚜️⚜️⚜️▣▣▣▣▣▣
