@@ -1,45 +1,28 @@
 const Asena = require('../events');
-const {MessageType} = require('@adiwajshing/baileys');
-const {spawnSync} = require('child_process');
-const Config = require('../config');
-const chalk = require('chalk');
+const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
+const axios = require('axios');
 
 const Language = require('../language');
-const Lang = Language.getString('system_stats');
+const Lang = Language.getString('wallpaper');
+
+Asena.addCommand({pattern: 'owner', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
+
+    var skl = await axios.get("https://i.ibb.co/GsjY7fC/Whats-Alexa.png", { responseType: 'arraybuffer' })
+
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*ʀᴇᴅ ᴀʟᴘʜᴀ ɪꜱ ᴛʜᴇ ᴄʜɪɴᴛᴜ ʙᴏᴛ ᴏᴡɴᴇʀ *
+
+*Cʀᴇᴀᴛᴇʀ number : wa.me/94740979220?text=Hi%20Red_Alpha%20bro.%20*
 
 
-if (Config.WORKTYPE == 'private') {
+ *𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰 𝚆𝙰 chat group 1 : https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j*
+     
+ *𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰 𝚆𝙰 chat group 2 : https://chat.whatsapp.com/E9ISyKEuxKz2pCP5Qz8igM*
 
-    Asena.addCommand({pattern: 'owner', fromMe: true, desc: 'shows the detail of bot owner'}, (async (message, match) => {
+ *𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰 𝚆𝙰 chat group 3 : https://chat.whatsapp.com/KS9MRCiMF9pFri4aLfLyVE*
 
-        if (message.jid === '15369524516-1612300121@g.us') {
+ *Gɪᴛ Lɪɴᴋ : https://github.com/MhmdMukarram/CHINTU-BOT*
 
-            return;
-        }
+ *𝙲𝙷𝙸𝙽𝚃𝚄 © ༒︎𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰༒︎*
+`}) 
 
-        if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Ameer Suhail*' , MessageType.text);
-        }
-        else {
-            await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
-        }
-    }));
-}
-
-else if (Config.WORKTYPE == 'public') {
-
-    Asena.addCommand({pattern: 'owner', fromMe: false, desc: 'shows the detail of bot owner'}, (async (message, match) => {
-
-        if (message.jid === '54218542512-1612300121@g.us') {
-
-            return;
-        }
-
-        if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Ameer Suhail*' , MessageType.text);
-        }
-        else {
-            await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS*', MessageType.text);
-        }
-    }));
-}
+}));
