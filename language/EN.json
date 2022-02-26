@@ -72,10 +72,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Angella",
-            "RESTART_MSG": "```Angella Restarting...🧚‍♂️```",
-            "SHUTDOWN_DESC": "Shutdown Angella",
-            "SHUTDOWN_MSG": "```Angella Shutting down 😴```",
+            "RESTART_DESC": "Restart Chintu Bot",
+            "RESTART_MSG": "```Chintu Bot Restarting...```",
+            "SHUTDOWN_DESC": "Shutdown Chintu Bot",
+            "SHUTDOWN_MSG": "```Chintu Bot Shutting down 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -186,7 +186,7 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Song Thapatte 🧚‍♂️*\n",
+            "DOWNLOADING_SONG": "\n*Song Downloading 🎶*\n",
             "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=cZ3UrzArI5A&t=71s```",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*Angella Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UC2hESq6BCRMCU-LKpl7Oq8g \n https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A \n\nChanges:\n```",
+            "NEW_UPDATE": "*Chintu Bot Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UC2hESq6BCRMCU-LKpl7Oq8g \n https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Updating..🧚‍♂️```",
+            "UPDATING": "```Updating..```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*Angella Restarting*"
+            "AFTER_UPDATE": "*Chintu Bot Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
@@ -516,7 +516,7 @@
             "ARAT": "Searched Song:"
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github zim-bot",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github MhmdMukarram",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
