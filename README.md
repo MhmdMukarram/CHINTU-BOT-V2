@@ -1,7 +1,7 @@
 ![My card name](https://cardivo.vercel.app/api?name=Chintu-%20userbot&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.ibb.co/JjmP8K2/LOGO.jpgbackgroundColor=%23ecf0f1&github=RedAlpha&&pattern=leaf&colorPattern=%25eaeaea)
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/N95Zqw4/logo.jpg" width="550" height="500"/>
+  <img border-radius: 15px src="https://i.ibb.co/N95Zqw4/logo.jpg" width="550" height="560"/>
    <p align="center">
 
 ## [![COSMO](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎+🅃🄾+🅲︎🅷︎🅸︎🅽︎🆃︎🆄︎+🅆🄰+🅱︎🅾︎🆃︎+🅁🄴🄿🄾;🅲︎🆁︎🅴︎🅰︎🆃︎🅴︎🅳︎+🄱🅈+🆁︎🅴︎🅳︎🅰︎🅻︎🅿︎🅷︎🅰︎.+;🅃🄷🄸🅂+🅸︎🆂︎+🅃🄷🄴+🅱︎🅴︎🆂︎🆃︎+🄱🄶🄼+🅱︎🅾︎🆃︎;🅆🄸🅃🄷+🅼︎🅾︎🆁︎🅴︎+🄵🄴🄰🅄🅃🄴🅁🅂)](https://bit.ly/2VM4lxF)
